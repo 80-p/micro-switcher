@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "switcher",
+    "Description": "Plugin to allow exchanging selection beginning and end.",
+    "Tags": ["selection"],
+    "Versions": [
+      {
+        "Version": "1.0.0"
+      }
+    ]
+  }
+]
